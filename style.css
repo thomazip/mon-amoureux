@@ -1,5 +1,11 @@
 body {
-  background: url(./rosabranco.jpg) no-repeat center; 
+  background-color:#e299ff;
+background-image:
+radial-gradient(at 76% 79%, hsla(295,93%,70%,1) 0px, transparent 50%),
+radial-gradient(at 5% 79%, hsla(299,100%,67%,1) 0px, transparent 50%),
+radial-gradient(at 76% 93%, hsla(251,94%,65%,1) 0px, transparent 50%),
+radial-gradient(at 32% 11%, hsla(258,77%,71%,1) 0px, transparent 50%),
+radial-gradient(at 41% 85%, hsla(244,75%,71%,1) 0px, transparent 50%), 
 }
 
 .imagem1 {
